@@ -34,10 +34,10 @@ Phone Number: <input type = "text" name = "phone" />
 </p>
 
 <p>
-Phone Number: <input type = "text" name = "phone" />
+Pincode: <input type = "text" pincode = "phone" />
 </p>
 
- <p>
+<p>
 adress: <input type = "text" name = "adress" />
 </p>
 
