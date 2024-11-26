@@ -34,7 +34,7 @@ Phone Number: <input type = "text" name = "phone" />
 </p>
 
 <p>
-Pincode: <input type = "text" name = "phone" />
+Pincode: <input type = "text" name = "pincode" />
 </p>
 
 <p>
