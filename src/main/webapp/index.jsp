@@ -13,6 +13,10 @@
    <p>
          Last name: <input type = "text" name = "lname" />
   </p>
+
+  <p>
+         Mother name: <input type = "text" name = "Mname" />
+  </p>
  
    <p>
          <input type = "radio" name = "Gender" value = "Male"> Male
@@ -34,11 +38,11 @@ Phone Number: <input type = "text" name = "phone" />
 </p>
 
 <p>
-Pincode: <input type = "text" name = "pincode" />
+Pincode: <input type = "text" name = "Pincode" />
 </p>
 
 <p>
-adress: <input type = "text" name = "adress" />
+Adress: <input type = "text" name = "Adress" />
 </p>
 
  <p>
